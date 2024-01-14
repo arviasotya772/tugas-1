@@ -1,0 +1,2 @@
+cat_and_rabbit.zip filter=lfs diff=lfs merge=lfs -text
+CNN.h5 filter=lfs diff=lfs merge=lfs -text
